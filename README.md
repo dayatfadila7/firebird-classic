@@ -1,7 +1,7 @@
 # Firebird Classic
 
 
-Dillinger is a package for firebird laravel >=5.1 using ibase function and that not using pdo because numeric in pdo firebird return random number.
+This is a package for firebird laravel >=5.1 using ibase function and that not using pdo because numeric in pdo firebird return random number.
 
 #### feature
   - excute query
