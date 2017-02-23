@@ -1,7 +1,7 @@
 {
     "name": "dayatfadila7/firebirdclassic",
     "description": "firebird using ibase laravel >= 5.1",
-    "version": "^0.1.13",
+    "version": "1.0.0.0",
     "license": "MIT",
     "type": "library",
     "authors": [{
