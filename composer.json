@@ -1,23 +1,18 @@
 {
     "name": "dayatfadila7/firebirdclassic",
-    "description": "firebird using ibase laravel 5.3",
+    "description": "firebird using ibase laravel >= 5.1",
     "version": "0.0.3",
     "license": "MIT",
     "type": "library",
-    "authors": [
-        {
-            "name": "Dayat Fadila",
-            "email": "dayat.recovery@gmail.com"
-        }
-    ],
+    "authors": [{
+        "name": "Dayat Fadila",
+        "email": "dayat.recovery@gmail.com"
+    }],
     "autoload": {
         "psr-4": {
             "FireBirdClassic\\": "src/"
         },
-
-        "files": [
-           
-        ]
+        "files": []
     },
     "require": {
         "php": ">=5.4.0"
