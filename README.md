@@ -10,11 +10,11 @@ This is a package for firebird laravel >=5.1 using ibase function and that not u
   - delete
 
 ### Installation
-composer require "laravelcollective/html":"^0.0.2"
+composer require dayatfadila7/firebirdclassic
 #### or add manual in composer.json
 ```"require": {
         .....
-        "firebird-classic" : "^0.0.2",
+        "dayatfadila7/firebirdclassic": "^1.0"
         ......
  },
 
