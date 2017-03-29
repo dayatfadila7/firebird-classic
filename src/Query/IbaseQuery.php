@@ -20,6 +20,8 @@ class IbaseQuery
         $this->connected = false;
         if ($this->con = @ibase_connect($dns, $username, $password)) {
             $this->connected = true;
+        } else {
+            trigger_error('Cannot connect to Firebird Database, no username or password supplied');
         }
     }
 
